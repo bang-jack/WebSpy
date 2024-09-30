@@ -4,7 +4,7 @@ This is a web scraping app
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://webspy.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://webspy-scraper.streamlit.app/)
 
 ## GitHub Codespaces
 
